@@ -18,6 +18,9 @@ Right now the best source for such .heic Dynamic Wallpaper is [https://dynamicwa
 
 ### Extract wallpapers from the .heic file
 
+Here is a video tutorial: [https://www.youtube.com/watch?v=ZOORkMI00gc](link)
+
+
 * You can use sites like [https://heic.online/](heic.online) to extract the jpeg files from the downloaded .heic files.
 * Give your wallpaper a name.
 * Arrange the wallpers according to the timings. Start with 12:00 AM (midnight).
